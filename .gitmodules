@@ -1,0 +1,20 @@
+[submodule "sources/bitbake"]
+	path = sources/bitbake
+	url = https://github.com/YoeDistro/bitbake
+	branch = master
+[submodule "sources/openembedded-core"]
+	path = sources/openembedded-core
+	url = https://github.com/YoeDistro/openembedded-core
+	branch = master
+[submodule "sources/meta-openembedded"]
+	path = sources/meta-openembedded
+	url = https://github.com/YoeDistro/meta-openembedded
+	branch = master
+[submodule "sources/meta-qt5"]
+	path = sources/meta-qt5
+	url = https://github.com/YoeDistro/meta-qt5
+	branch = master
+[submodule "sources/meta-raspberrypi"]
+	path = sources/meta-raspberrypi
+	url = https://github.com/YoeDistro/meta-raspberrypi
+	branch = master
